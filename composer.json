@@ -1,0 +1,19 @@
+{
+  "name": "alexx/savona-triathlon",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.4",
+    "stripe/stripe-php": "^16.3"
+  },
+  "require-dev": {
+    "laravel/pint": "^1.18"
+  },
+  "scripts": {
+    "format": "./vendor/bin/pint"
+  }
+}

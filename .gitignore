@@ -1,0 +1,28 @@
+# Dependencies
+/vendor/
+composer.phar
+
+# Environment and Config
+.env
+.env.*
+!.env.example
+config/*.local.php
+
+# IDE/Editor
+.DS_Store
+.idea/œ
+.vscode/
+*.sublime-*
+*.swp
+*.swo
+
+# Database
+database/*.sqlite
+database/*.sqlite-journal
+
+# Logs
+*.log
+/logs/
+
+# Cache
+/cache/
