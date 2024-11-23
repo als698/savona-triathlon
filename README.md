@@ -55,7 +55,7 @@ php scripts/create_admin.php
 Accedere al pannello amministrativo utilizzando le seguenti credenziali predefinite:
 
 - **Email**: `test@test.com`
-- **Password**: `test2024`
+- **Password**: `test25`
 
 ---
 
