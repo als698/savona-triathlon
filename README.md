@@ -79,6 +79,18 @@ Accedere al pannello amministrativo utilizzando le seguenti credenziali predefin
 
 ---
 
+### **Test Payment**
+
+Per testare i pagamenti, utilizzare la seguente carta di test:
+
+- **Numero**: 4242 4242 4242 4242
+- **CVC**: Qualsiasi 3 cifre
+- **Data**: Qualsiasi data futura
+
+Per ulteriori carte di test, consultare la [documentazione Stripe](https://docs.stripe.com/testing#cards).
+
+---
+
 ## **Strumenti e Sicurezza**
 
 ### **Formattazione del Codice**
